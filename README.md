@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Antônio Carlos Junior</h1>
+<h1 align="center">Hi, I'm Antônio Carlos Junior</h1>
 <h3 align="center">A passionate developer from Manaus</h3>
 
 <!--github stats-->
@@ -10,15 +10,15 @@
    </div>
 </div>
 
-- 🔭 I’m currently working on **LG DX Academy**
+- I’m currently working on **LG DX Academy**
 
-- 🌱 I’m currently learning **I'm currently learning BotCity, UiPath, and the Django framework to expand my skills in automation and web development.**
+- I’m currently learning **I'm currently learning BotCity, UiPath, and the Django framework to expand my skills in automation and web development.**
 
-- 👯 I’m looking to collaborate on **Projects related to automation, especially in streamlining workflows and improving efficiency through technology.**
+- I’m looking to collaborate on **Projects related to automation, especially in streamlining workflows and improving efficiency through technology.**
 
-- 🤝 I’m looking for help with **I'm looking for help with setting up automation workflows using BotCity, UiPath, and other automation tools.**
+- I’m looking for help with **I'm looking for help with setting up automation workflows using BotCity, UiPath, and other automation tools.**
 
-- 📫 How to reach me **carlosandrade002.ac@gmail.com**
+- How to reach me **carlosandrade002.ac@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
