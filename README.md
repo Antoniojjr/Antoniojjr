@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Antônio Carlos Junior</h1>
 <h3 align="center">A passionate developer from Manaus</h3>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXh5aW9sdnNxejllazk4NDdrajN5dGQ2a2hkYmZ2aXBzeDJ2dW8wZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.webp" alt="Meu GIF Legal" width="500"
+<center>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHF0OWhqb3ZmM3ZibHcwM3Q2MW5udTdlZWZ0ZGIxaW13b3p2ZWlybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sRFEa8lbeC7zbcIZZR/giphy.webp" alt="Meu GIF Legal" width="400">
+</center>
 
 - 🔭 I’m currently working on **LG DX Academy**
 
