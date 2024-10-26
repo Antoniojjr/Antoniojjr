@@ -5,8 +5,8 @@
 <div align="center" style="display: inline">
    <a href="https://github.com/Antoniojjr">
    <div style="display: inline_block">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Antoniojjr&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antoniojjr&theme=radical" alt="Top Languages">
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Antoniojjr&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antoniojjr&theme=radical" alt="Top Languages">
    </div>
 </div>
       
